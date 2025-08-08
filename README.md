@@ -1,6 +1,6 @@
-# Desarrollo-Web-Bele
-Documentando mi camino en el desarrollo web 
+# Proyectos - FrontEnd-Bele
 
 Project ideas from Project idea from https://roadmap.sh/frontend/projects
 
 [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
+[Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
